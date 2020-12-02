@@ -49,10 +49,10 @@ Hello! my name *{}*.
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-TECHNO_IMG = "https://telegra.ph/file/e2beedac930e3095bf93f.jpg''
+TECHNO_IMG = "https://telegra.ph/file/e2beedac930e3095bf93f.jpg"
 IMPORTED = {}
 MIGRATEABLE = []
-HELPABLE = {}
+HELPABLE = {} in
 STATS = []
 USER_INFO = []
 DATA_IMPORT = []
