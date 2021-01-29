@@ -27,7 +27,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 **Hello {}, My Name is {}!** 
-I am an **ultra max 2.0**  group management bot. Made by pranav credits to legend x
+I am an **SUPERB**  group management bot.
 You can find the list of available commands with /help.
 
 """
@@ -49,10 +49,10 @@ Hello! my name *{}*.
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-TECHNO_IMG = "https://telegra.ph/file/e2beedac930e3095bf93f.jpg"
+TECHNO_IMG = "https://telegra.ph/file/84b2017bc2f3c90f2e61c.jpg"
 IMPORTED = {}
 MIGRATEABLE = []
-HELPABLE = {} in
+HELPABLE = {}
 STATS = []
 USER_INFO = []
 DATA_IMPORT = []
