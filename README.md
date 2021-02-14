@@ -1,4 +1,4 @@
 # GRAND OFFICIAL
 
-DEPLOY HERE - [GRAND OFFICIAL](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Flegendx22%2FGRANDROBOT&template=https%3A%2F%2Fgithub.com%2Flegendx22%2FGRANDROBOT)
-[.](https://heroku.com/deploy)
+𝙣𝙤𝙩𝙝𝙞𝙣𝙜 𝙞𝙣 𝙧𝙚𝙖𝙙𝙢𝙚.𝙢𝙙 
+𝙨𝙤𝙢𝙩𝙝𝙞𝙣𝙜 𝙬𝙚𝙣𝙩 𝙬𝙧𝙤𝙣𝙜 𝙧𝙚𝙛𝙧𝙚𝙨𝙝 𝙩𝙤 𝙠𝙣𝙤𝙬 𝙢𝙤𝙧𝙚
